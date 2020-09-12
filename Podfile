@@ -1,5 +1,8 @@
-source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+# Only enable this mirror when you are inside GFW
+# source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
 
+# Github source; comment it out to use https://cdn.cocoapods.org
+source 'https://github.com/CocoaPods/Specs.git'
 
 project 'Shinsi2.xcodeproj'
 platform :ios, '10.0'

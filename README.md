@@ -4,6 +4,7 @@
 
 An unofficial iOS app for E-Hentai / EX-Hentai. Fully supporting iOS devices of any size. Written in Swift 5.0
 
+This repo is forked to add `Pods` inside this repo, so that `pod install` won't be mandatory. It also commented out the Chinese Cocoapods mirror to avoid potential security concerns.
 
 ![](Screenshots/top.jpg)
 
@@ -71,10 +72,10 @@ An unofficial iOS app for E-Hentai / EX-Hentai. Fully supporting iOS devices of 
 
 ### iOS 11+ required
 
-### XCode
+### Xcode
 
-Clone the project, run `pod install`. Use XCode to build it to your device.
-
+- `open Shinsi2.xcworkspace`
+- `Command+R`
 
 ### Cydia Impactor
 

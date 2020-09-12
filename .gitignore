@@ -1,6 +1,6 @@
 ## Cocoapods
-Pods/
-*.xcworkspace
+# Pods/
+# *.xcworkspace
 
 
 ## Various settings

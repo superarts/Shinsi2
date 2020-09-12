@@ -1,0 +1,6 @@
+module Pods_Shinsi2 {
+  umbrella header "Pods-Shinsi2-umbrella.h"
+
+  export *
+  module * { export * }
+}
